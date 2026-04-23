@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **AI & Backend Systems**
 - 🌱 Learning **Machine Learning, LLMs & System Design**
-- ✍️ Writing at: **https://dangindev.com**
+- ✍️ Writing at: **https://nguyenhaidang.io.vn**
 - 📫 Reach me: **haidang29productions@gmail.com**
 - ⚡ Motto: **Eat • Sleep • Code • Repeat**
 
@@ -36,7 +36,7 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cs,react,reactnative,angular,tailwind,bootstrap,sass,html,css,graphql,spring,sqlite,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,react,angular,tailwind,bootstrap,sass,html,css,graphql,spring,sqlite,postman" />
 </p>
 
 ---
